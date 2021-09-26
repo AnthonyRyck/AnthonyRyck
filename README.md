@@ -1,5 +1,5 @@
-# Profil de Ryck
-Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager.
+# Qui suis je ?
+Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager. J'essaye de mettre (*quand c'est possible*) mes projets en OpenSource.
 
 * [LinkedIn](https://www.linkedin.com/in/anthony-ryckembusch-4000a9111/)  
 * [Twitter](https://twitter.com/Anthony_Ryck)
@@ -8,7 +8,7 @@ Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager.
 
 # Mes articles  
 
-Mon blog est sur [**https://www.ctrl-alt-suppr.dev**](https://www.ctrl-alt-suppr.dev/)
+Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)
 
 ## Blazor Server
 [Blazor – Créer un utilisateur Root au démarrage de l’application](https://www.ctrl-alt-suppr.dev/2020/12/17/blazor-creer-un-utilisateur-root-au-demarrage-de-lapplication/)  
