@@ -10,7 +10,7 @@ Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager. J'essay
 
 Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)
 
-## Blazor Server
+## Blazor
 [Blazor – Créer un utilisateur Root au démarrage de l’application](https://www.ctrl-alt-suppr.dev/2020/12/17/blazor-creer-un-utilisateur-root-au-demarrage-de-lapplication/)  
 [Communiquer entre composants avec Blazor – Part 1](https://www.ctrl-alt-suppr.dev/2020/12/23/communiquer-entre-composants-avec-blazor-part-1/)  
 [MVVM avec Blazor](https://www.ctrl-alt-suppr.dev/2021/01/01/mvvm-avec-blazor/)  
