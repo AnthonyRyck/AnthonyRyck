@@ -44,6 +44,8 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 ## Du "code".
 [Inversion de contrôle avec Action/Func en .Net](https://www.ctrl-alt-suppr.dev/2021/07/22/inversion-de-controle-avec-action-func-en-net/)  
 [Notebooks avec .NET Interactive](https://www.ctrl-alt-suppr.dev/2021/08/16/notebooks-avec-net-interactive/)  
+[Migrer vers le .Net 6](https://www.ctrl-alt-suppr.dev/2021/11/12/migrer-vers-le-net-6/)
+[JSON avec .Net](https://www.ctrl-alt-suppr.dev/2021/11/19/json-avec-net/)
 
 ## Azure
 [Azure AI – l’IA conversationnelle](https://www.ctrl-alt-suppr.dev/2021/09/07/azure-ai-lia-conversationnelle/)
@@ -55,6 +57,7 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 [Tips & Tricks – Xamarin Debug en Local](https://www.ctrl-alt-suppr.dev/2021/03/07/tips-tricks-xamarin-debug-en-local/)  
 [Tips & Tricks - Les fichiers statiques Asp.Net Core](https://www.ctrl-alt-suppr.dev/2021/06/02/tips-tricks-fichiers-statiques-asp-net-core/)  
 [Tips & Tricks - Notebooks - Faire de la datavisualisation](https://www.ctrl-alt-suppr.dev/2021/09/16/tips-tricks-notebooks-faire-de-la-datavisualisation/)
+[Tips & Trick – Tuning Windows Terminal](https://www.ctrl-alt-suppr.dev/2021/11/24/tips-trick-windows-terminal/)
 
 ## FanApp
 C'est un projet de demo pour mes posts sur [www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)  
