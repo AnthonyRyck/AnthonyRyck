@@ -34,7 +34,8 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 [JWT coté serveur](https://www.ctrl-alt-suppr.dev/2021/05/26/jwt-cote-serveur/)  
 [Blazor SCSS isolation](https://www.ctrl-alt-suppr.dev/2021/06/08/blazor-scss-isolation/)  
 [Les Middleware](https://www.ctrl-alt-suppr.dev/2021/06/14/les-middlewares/)  
-[QnA Maker – Implémenter un ChatBoT dans Blazor](https://www.ctrl-alt-suppr.dev/2021/09/07/qna-maker-azure-bot-implementer-un-chatbot-dans-blazor/)
+[QnA Maker – Implémenter un ChatBoT dans Blazor](https://www.ctrl-alt-suppr.dev/2021/09/07/qna-maker-azure-bot-implementer-un-chatbot-dans-blazor/)  
+[DynamicComponent avec Blazor](https://www.ctrl-alt-suppr.dev/2021/12/07/dynamiccomponent-avec-blazor/)  
 
 ## Xamarin.
 [Commencer avec Xamarin](https://www.ctrl-alt-suppr.dev/2021/03/09/commencer-avec-xamarin/)  
