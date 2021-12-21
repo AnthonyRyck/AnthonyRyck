@@ -48,6 +48,7 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 [Notebooks avec .NET Interactive](https://www.ctrl-alt-suppr.dev/2021/08/16/notebooks-avec-net-interactive/)  
 [Migrer vers le .Net 6](https://www.ctrl-alt-suppr.dev/2021/11/12/migrer-vers-le-net-6/)  
 [JSON avec .Net](https://www.ctrl-alt-suppr.dev/2021/11/19/json-avec-net/)  
+[Découverte de gRPC avec .Net 6](https://www.ctrl-alt-suppr.dev/2021/12/20/decouverte-de-grpc-avec-dotnet-6/)  
 
 ## Azure
 [Azure AI – l’IA conversationnelle](https://www.ctrl-alt-suppr.dev/2021/09/07/azure-ai-lia-conversationnelle/)
