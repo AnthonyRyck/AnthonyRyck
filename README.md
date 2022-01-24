@@ -10,6 +10,15 @@ Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager. J'essay
 
 Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)
 
+## Du "code".
+[Inversion de contrôle avec Action/Func en .Net](https://www.ctrl-alt-suppr.dev/2021/07/22/inversion-de-controle-avec-action-func-en-net/)  
+[Notebooks avec .NET Interactive](https://www.ctrl-alt-suppr.dev/2021/08/16/notebooks-avec-net-interactive/)  
+[Migrer vers le .Net 6](https://www.ctrl-alt-suppr.dev/2021/11/12/migrer-vers-le-net-6/)  
+[JSON avec .Net](https://www.ctrl-alt-suppr.dev/2021/11/19/json-avec-net/)  
+[Découverte de gRPC avec .Net 6](https://www.ctrl-alt-suppr.dev/2021/12/20/decouverte-de-grpc-avec-dotnet-6/)  
+[Mutation Testing](https://www.ctrl-alt-suppr.dev/2022/01/05/mutation-testing/)  
+[Entity Framework Core : Database First](https://www.ctrl-alt-suppr.dev/2022/01/21/entity-framework-core-database-first/)  
+
 ## Base de données
 [Découverte de MongoDb avec C#](https://www.ctrl-alt-suppr.dev/2021/10/13/decouverte-de-mongodb-avec-c/)  
 [Découverte de Gremlin avec C#](https://www.ctrl-alt-suppr.dev/2021/10/19/decouverte-de-gremlin-avec-c/)  
@@ -42,15 +51,6 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 [Commencer avec Xamarin](https://www.ctrl-alt-suppr.dev/2021/03/09/commencer-avec-xamarin/)  
 [Real-time avec Xamarin](https://www.ctrl-alt-suppr.dev/2021/03/15/real-time-avec-xamarin/)  
 [Xamarin et JWT](https://www.ctrl-alt-suppr.dev/2021/05/17/xamarin-android-et-jwt/)  
-
-## Du "code".
-[Inversion de contrôle avec Action/Func en .Net](https://www.ctrl-alt-suppr.dev/2021/07/22/inversion-de-controle-avec-action-func-en-net/)  
-[Notebooks avec .NET Interactive](https://www.ctrl-alt-suppr.dev/2021/08/16/notebooks-avec-net-interactive/)  
-[Migrer vers le .Net 6](https://www.ctrl-alt-suppr.dev/2021/11/12/migrer-vers-le-net-6/)  
-[JSON avec .Net](https://www.ctrl-alt-suppr.dev/2021/11/19/json-avec-net/)  
-[Découverte de gRPC avec .Net 6](https://www.ctrl-alt-suppr.dev/2021/12/20/decouverte-de-grpc-avec-dotnet-6/)  
-[Mutation Testing](https://www.ctrl-alt-suppr.dev/2022/01/05/mutation-testing/)  
-[Entity Framework Core : Database First](https://www.ctrl-alt-suppr.dev/2022/01/21/entity-framework-core-database-first/)  
 
 ## Azure
 [Azure AI – l’IA conversationnelle](https://www.ctrl-alt-suppr.dev/2021/09/07/azure-ai-lia-conversationnelle/)
