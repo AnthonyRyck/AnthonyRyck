@@ -64,6 +64,7 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 02/06/21 [Tips & Tricks - Les fichiers statiques Asp.Net Core](https://www.ctrl-alt-suppr.dev/2021/06/02/tips-tricks-fichiers-statiques-asp-net-core/)  
 16/09/21 [Tips & Tricks - Notebooks - Faire de la datavisualisation](https://www.ctrl-alt-suppr.dev/2021/09/16/tips-tricks-notebooks-faire-de-la-datavisualisation/)  
 24/11/21 [Tips & Trick – Tuning Windows Terminal](https://www.ctrl-alt-suppr.dev/2021/11/24/tips-trick-windows-terminal/)  
+28/02/2022 [Tips & Tricks - Du script en C#](https://www.ctrl-alt-suppr.dev/2022/02/28/tips-tricks-du-script-en-c/)  
 
 ## FanApp
 C'est un projet de demo pour mes posts sur [www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)  
