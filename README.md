@@ -11,7 +11,7 @@ Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager. J'essay
 Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)
 
 ## Du "code".
-22/07/21 [Inversion de contrôle avec Action/Func en .Net](https://www.ctrl-alt-suppr.dev/2021/07/22/inversion-de-controle-avec-action-func-en-net/){:target="_blank"}  
+22/07/21 [Inversion de contrôle avec Action/Func en .Net](https://www.ctrl-alt-suppr.dev/2021/07/22/inversion-de-controle-avec-action-func-en-net/)  
 16/08/21 [Notebooks avec .NET Interactive](https://www.ctrl-alt-suppr.dev/2021/08/16/notebooks-avec-net-interactive/)  
 12/11/21 [Migrer vers le .Net 6](https://www.ctrl-alt-suppr.dev/2021/11/12/migrer-vers-le-net-6/)  
 19/11/21 [JSON avec .Net](https://www.ctrl-alt-suppr.dev/2021/11/19/json-avec-net/)  
