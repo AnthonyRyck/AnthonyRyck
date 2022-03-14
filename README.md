@@ -20,6 +20,7 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 21/01/22 [Entity Framework Core : Database First](https://www.ctrl-alt-suppr.dev/2022/01/21/entity-framework-core-database-first/)  
 16/02/22 [GitHub Actions – Créer une Release](https://www.ctrl-alt-suppr.dev/2022/02/16/github-actions-creer-une-release/)  
 08/03/22 [Passer du C# au TypeScript](https://www.ctrl-alt-suppr.dev/2022/03/08/passer-du-c-au-typescript/)  
+14/03/22 [Découverte de Spectre.Console](https://www.ctrl-alt-suppr.dev/2022/03/14/decouverte-de-spectre-console/)  
 
 ## Base de données
 13/10/21 [Découverte de MongoDb avec C#](https://www.ctrl-alt-suppr.dev/2021/10/13/decouverte-de-mongodb-avec-c/)  
