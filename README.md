@@ -8,7 +8,8 @@ Développeur .Net depuis bientôt 15 ans, j'adore apprendre et partager. J'essay
 
 # Mes articles  
 
-Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)
+Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev/)  
+et sauvegarde sur [GitHub](https://github.com/AnthonyRyck/ctrl-alt-suppr/)
 
 ## Du "code".
 22/07/21 [Inversion de contrôle avec Action/Func en .Net](https://www.ctrl-alt-suppr.dev/2021/07/22/inversion-de-controle-avec-action-func-en-net/)  
@@ -18,6 +19,7 @@ Mon blog est sur [https://www.ctrl-alt-suppr.dev](https://www.ctrl-alt-suppr.dev
 20/12/21 [Découverte de gRPC avec .Net 6](https://www.ctrl-alt-suppr.dev/2021/12/20/decouverte-de-grpc-avec-dotnet-6/)  
 05/01/22 [Mutation Testing](https://www.ctrl-alt-suppr.dev/2022/01/05/mutation-testing/)  
 21/01/22 [Entity Framework Core : Database First](https://www.ctrl-alt-suppr.dev/2022/01/21/entity-framework-core-database-first/)  
+07/02/22 [Découverte de GraphQL](https://www.ctrl-alt-suppr.dev/2022/02/07/decouverte-de-graphql/)
 16/02/22 [GitHub Actions – Créer une Release](https://www.ctrl-alt-suppr.dev/2022/02/16/github-actions-creer-une-release/)  
 08/03/22 [Passer du C# au TypeScript](https://www.ctrl-alt-suppr.dev/2022/03/08/passer-du-c-au-typescript/)  
 14/03/22 [Découverte de Spectre.Console](https://www.ctrl-alt-suppr.dev/2022/03/14/decouverte-de-spectre-console/)  
